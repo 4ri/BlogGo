@@ -1,4 +1,4 @@
 BlogGo
 ======
 
-Newbie Go project - simple blog program.
+Newbie Go project - a simple blog program.
